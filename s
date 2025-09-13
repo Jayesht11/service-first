@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: o;
+    font-family: century gothic;
+
+}
+header{
+    background-image: url(../1.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+
+}
+
+ul{
+    float: right;
+    list-style-type: none;
+
+}
+
+ul li{
+    display: inline-block;
+
+
+}
+
+ul li a{
+    text-decoration: none;
+    color: black;
+    padding: 5px 20px;
+    border: 1px solid #black;
+}
